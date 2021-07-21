@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">emirim_project10_3</string>
+    <string name="btn_call">전화 걸기</string>
+    <string name="btn_done">완료</string>
+</resources>
